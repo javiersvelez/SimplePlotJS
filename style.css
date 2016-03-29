@@ -1,0 +1,63 @@
+body {
+    background-image: url(paper.png);
+    font-family: Arial;
+    color: darkblue;
+}
+canvas {
+    border: 2px solid red;
+}
+
+h1 {
+    color: darkblue;
+    background-color: aliceblue;
+    border: 2px solid darkblue;
+
+}
+canvas {
+    display: block;
+}
+#myCanvas {
+    border: 1px solid blue;
+}
+#graph {
+    float: left;
+}
+#columnLeft {
+    float: left;
+}
+#columnRight {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    background-color: aliceblue;
+    border: 2px solid red;
+    width: 50%;
+    height: 77%;
+    margin-left: 20px;
+    float: left;
+}
+#simpleCall {
+    font-family: Courier;
+    font-weight: bold;
+}
+
+/* Demos */
+
+#demo {
+    border: 2px dotted darkblue;
+    background-color: whitesmoke;
+    padding: 5px 5px 5px 5px;
+    margin-top: 50px;
+    height: auto;
+}
+button {
+    margin-top: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 4px;
+    font-family: sans-serif;
+    font-size: 1em;
+    width: 100px;
+    height: 1.5em;
+    cursor: pointer;
+}

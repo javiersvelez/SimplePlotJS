@@ -67,6 +67,16 @@ button {
 }
 #downloadButton button{
     background-color: darkblue;
-    font-size: 1.4em;
+    font-size: 1em;
     margin-top: 20px;
+}
+
+#gitHubButton{
+    margin-left: 38%;
+}
+
+#gitHubButton button{
+    background-color: darkblue;
+    font-size: 1em;
+    margin-top: 10px;
 }
